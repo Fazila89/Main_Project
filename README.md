@@ -1,1 +1,2 @@
 # Main_Project
+This was the main project done as part of the M-Tech course. This project detects Building images form satellite images using Mask RCNN. This project combines areas of both Deep learning and Computer vision. Train.ipynb is the python code for training the satellite image dataset. Test.ipynb is the python code for testing the dataset. The results are displayed in test.ipynb. Aso the perfomance evaluations are also done.
